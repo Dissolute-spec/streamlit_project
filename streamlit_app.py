@@ -1,3 +1,7 @@
+# Test
+import numpy as np
+import pandas as pd 
+df = pd.read_csv()
 import streamlit as st
 
 st.title("🎈 My new app")
